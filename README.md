@@ -6,8 +6,7 @@
 <details>
   <summary>
     <span style="font-size: 1.5em; font-weight: bold;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="vertical-align: middle;">
-      Projetos HTML
+      HTML
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="vertical-align: middle;">
     </span>
   </summary>
@@ -122,8 +121,7 @@
 <details>
   <summary>
     <span style="font-size: 1.5em; font-weight: bold;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" style="vertical-align: middle;">
-      Projetos C++
+    C++
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" style="vertical-align: middle;">
     </span>
   </summary>
