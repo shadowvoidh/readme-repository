@@ -5,18 +5,18 @@
 <!-- ==================== CATEGORIA HTML ==================== -->
 <details>
   <summary>
-    <h2 style="display: inline;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30">
+    <span style="font-size: 1.5em; font-weight: bold;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="vertical-align: middle;">
       Projetos HTML
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30">
-    </h2>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="vertical-align: middle;">
+    </span>
   </summary>
 
   <br>
 
   <table align="center" width="100%">
-   <!-- BLOCO 1 (PROJETOS 1 E 2) -->
-  <!-- LINHA 1: IMAGENS -->
+    <!-- BLOCO 1 (PROJETOS 1 E 2) -->
+    <!-- LINHA 1: IMAGENS -->
     <tr>
       <td align="center" width="50%" valign="middle">
         <img src="assets/ubersprint.png" width="100%" height="180" style="object-fit: cover;">
@@ -26,7 +26,7 @@
       </td>
     </tr>
 
-   <!-- LINHA 2: TÍTULOS E DESCRIÇÕES -->
+  <!-- LINHA 2: TÍTULOS E DESCRIÇÕES -->
   <tr>
       <td align="center" valign="top">
         <h3>Index Ubers</h3>
@@ -66,7 +66,7 @@
 
   <!-- BLOCO 2 (PROJETOS 3 E 4) -->
   <!-- LINHA 1: IMAGENS -->
-   <tr>
+  <tr>
       <td align="center" width="50%" valign="middle">
         <img src="assets/backend.png" width="100%" height="180" style="object-fit: cover;">
       </td>
@@ -89,7 +89,7 @@
       </td>
     </tr>
 
-   <!-- LINHA 3: BADGES E BOTÕES -->
+  <!-- LINHA 3: BADGES E BOTÕES -->
   <tr>
       <td align="center" valign="bottom">
         <p>
@@ -121,11 +121,11 @@
 <!-- ==================== CATEGORIA C++ ==================== -->
 <details>
   <summary>
-    <h2 style="display: inline;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30">
+    <span style="font-size: 1.5em; font-weight: bold;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" style="vertical-align: middle;">
       Projetos C++
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30">
-    </h2>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" style="vertical-align: middle;">
+    </span>
   </summary>
 
   <br>
